@@ -12,6 +12,7 @@
 
 #title{
     font-family: 'Work Sans', sans-serif;
+    font-size: 2em;
 }
 
 #image{
@@ -31,9 +32,10 @@
 }
 #tribute-info p {
     font-family: 'Nunito', sans-serif;
+    font-size: 1em;
 }
 
 #img-caption{
     font-family: 'Nunito', sans-serif;
-
+    font-size: 0.9em;
 }
